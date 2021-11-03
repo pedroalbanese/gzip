@@ -21,7 +21,7 @@ var (
 	decompress = flag.Bool("d", false, "decompress; see also -c and -k")
 	force      = flag.Bool("f", false, "force overwrite of output file")
 	help       = flag.Bool("h", false, "print this help message")
-	keep       = flag.Bool("k", false, "keep original files unchaned")
+	keep       = flag.Bool("k", false, "keep original files unchanged")
 	suffix     = flag.String("s", "gz", "use provided suffix on compressed files")
 	cores      = flag.Int("cores", 1, "number of cores to use for parallelization")
 	stdin      bool
