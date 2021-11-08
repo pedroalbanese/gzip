@@ -2,6 +2,8 @@
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/gzip/blob/master/LICENSE) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/gzip?status.png)](http://godoc.org/github.com/pedroalbanese/gzip)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/gzip)](https://goreportcard.com/report/github.com/pedroalbanese/gzip)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/gzip)](https://golang.org)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/gzip)](https://github.com/pedroalbanese/gzip/releases)
 ### Parallel implementation of gzip for modern multi-core machines written in Go 
 <pre>Usage: gzip [OPTION]... [FILE]
 Compress or uncompress FILE (by default, compress FILE in-place).
